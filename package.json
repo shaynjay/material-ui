@@ -218,5 +218,8 @@
     "docs/packages/*",
     "framer",
     "test"
-  ]
+  ],
+  "dependencies": {
+    "@material-ui/core": "^4.11.3"
+  }
 }
