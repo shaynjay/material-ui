@@ -222,6 +222,7 @@
   "dependencies": {
     "@material-ui/core": "^5.0.0-beta.1",
     "airbnb-prop-types": "^2.16.0",
-    "enzyme-adapter-utils": "^1.14.0"
+    "enzyme-adapter-utils": "^1.14.0",
+    "update": "^0.7.4"
   }
 }
