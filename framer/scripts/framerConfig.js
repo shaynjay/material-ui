@@ -24,7 +24,7 @@ export const componentSettings = {
       'src',
       'srcSet',
       'sx',
-      // FIXME: `Union`
+      `Union`,
       'variant',
     ],
     propValues: {
